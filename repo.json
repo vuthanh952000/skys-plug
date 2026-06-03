@@ -1,17 +1,9 @@
 {
-  "name": "Kho Phim Của Tui",
-  "id": "vuthanh952000.repo",
-  "description": "Kho extension cá nhân dành cho SkyStream",
-  "author": "Admin",
-  "plugin": [
-    {
-      "name": "NguonC TV",
-      "id": "com.nguonc.tv",
-      "version": "1.0.0",
-      "description": "Phim cập nhật tự động từ API NguonC",
-      "author": "Admin",
-      "iconUrl": "https://phim.nguonc.com/favicon.ico",
-      "url": "https://raw.githubusercontent.com/vuthanh952000/skys-plug/main/nguonc.js"
-    }
+  "name": "Kho Phim Cua Tui",
+  "packageName": "vuthanh952000.repo",
+  "description": "Kho extension ca nhan danh cho SkyStream",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/vuthanh952000/skys-plug/main/plugins.json"
   ]
 }
