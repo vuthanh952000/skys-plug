@@ -1,8 +1,9 @@
 {
   "name": "Kho Phim Của Tui",
+  "id": "vuthanh952000.repo",
   "description": "Kho extension cá nhân dành cho SkyStream",
   "author": "Admin",
-  "plugins": [
+  "plugin": [
     {
       "name": "NguonC TV",
       "id": "com.nguonc.tv",
