@@ -1,0 +1,16 @@
+{
+  "name": "Kho Phim Của Tui",
+  "description": "Kho extension cá nhân dành cho SkyStream",
+  "author": "Admin",
+  "plugins": [
+    {
+      "name": "NguonC TV",
+      "id": "com.nguonc.tv",
+      "version": "1.0.0",
+      "description": "Phim cập nhật tự động từ API NguonC",
+      "author": "Admin",
+      "iconUrl": "https://phim.nguonc.com/favicon.ico",
+      "url": "https://raw.githubusercontent.com/vuthanh952000/skys-plug/main/nguonc.js"
+    }
+  ]
+}
