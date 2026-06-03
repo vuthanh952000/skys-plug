@@ -1,0 +1,21 @@
+[
+  {
+    "packageName": "com.nguonc.tv",
+    "name": "NguonC TV",
+    "version": 1,
+    "baseUrl": "https://phim.nguonc.com",
+    "description": "Phim cap nhat tu dong tu API NguonC",
+    "authors": [
+      "Admin"
+    ],
+    "languages": [
+      "vi"
+    ],
+    "categories": [
+      "Movie",
+      "TvSeries"
+    ],
+    "iconUrl": "https://phim.nguonc.com/favicon.ico",
+    "url": "https://raw.githubusercontent.com/vuthanh952000/skys-plug/main/nguonc.js"
+  }
+]
